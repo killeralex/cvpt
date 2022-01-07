@@ -42,7 +42,7 @@ header nav ul a {
 }
 
 header nav ul li div:hover {
-    background-color: aquamarine;
+    background-color: #5eaaa8;
     color: #FFFFFF;
 }
 
@@ -58,9 +58,9 @@ header nav ul li div:hover {
     margin: auto;
     display: flex;
     justify-content: space-between;
-    border-top: 6px solid aquamarine;
-    border-bottom: 6px solid aquamarine;
-    border-right: 6px solid aquamarine;
+    border-top: 6px solid #5eaaa8;
+    border-bottom: 6px solid #5eaaa8;
+    border-right: 6px solid #5eaaa8;
     padding-right: 10px;
 }
 
@@ -70,9 +70,7 @@ header nav ul li div:hover {
     display: flex;
     flex-direction: column;
     margin-top: 60px;
-    border-top: 6px solid aquamarine;
-    border-left: 6px solid aquamarine;
-    background-color: aquamarine;
+    background-color: #a3d2ca;
 }
 
 .main-menu-container {
@@ -155,7 +153,7 @@ hr {
 
 
 .grey-frame {
-    background-color: lightgray;
+    background-color: #e8ded2;
     border: 1px solid black;
     padding: 5px;
     margin: 5px;
@@ -164,7 +162,7 @@ hr {
 .green-frame {
     margin-top: 10px;
     margin-right: 5px;
-    background-color: aquamarine;
+    background-color: #5eaaa8;
     padding: 5px;
 }
 
